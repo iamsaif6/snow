@@ -1,10 +1,10 @@
-# Kallyas Multipage Website
+# Snow A minimal agency website
 
 <br>
 
 <img src="https://github.com/iamsaif6/snow/blob/master/ezgif.com-gif-maker%20(1).gif" width="700px" />
 
-> ## For live preview : [Click Here](https://iamsaif6.github.io/kallyas/ "Kallyas")
+> ## For live preview : [Click Here](https://iamsaif6.github.io/snow/ "Snow")
 >
 > <br>
 
